@@ -1,0 +1,6 @@
+{
+  "name": "KivuSol — Conseil Agricole Sud-Kivu",
+  "description": "Application mobile-first légère d'aide à la décision agricole pour les cultivateurs de Bukavu et du Sud-Kivu (NASA Space Apps Challenge).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
